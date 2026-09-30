@@ -1,0 +1,6 @@
+{
+  "name": "ALEX'S ROOM",
+  "description": "Dark gaming-style school hub to chat with friends, study in rooms with focus timers, manage tasks, and play games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
